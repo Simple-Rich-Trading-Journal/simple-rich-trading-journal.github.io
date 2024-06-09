@@ -1,6 +1,1 @@
-
-        
-
-          Simple-Rich-Trading-Journal
-        
-
+README.rst
