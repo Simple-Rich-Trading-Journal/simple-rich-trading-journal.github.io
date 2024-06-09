@@ -10,6 +10,7 @@
     :align: center
     :alt: asd
     :width: 400px
+    :target: https://github.com/Simple-Rich-Trading-Journal/Simple-Rich-Trading-Journal
 
 Simple Rich Trading Journal
 ###########################
@@ -29,6 +30,7 @@ use Mozilla Firefox or Google Chrome (Firefox is recommended).
 .. image:: https://raw.githubusercontent.com/Simple-Rich-Trading-Journal/docs/main/cc.png
     :align: right
     :width: 100px
+    :target: https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1
 
 This work is licensed under `CC BY-NC-ND 4.0`_.
 
