@@ -1,0 +1,6 @@
+
+        
+
+          Simple-Rich-Trading-Journal
+        
+
